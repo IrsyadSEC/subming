@@ -7,5 +7,6 @@ SUBMING is powerfull subdomain scanner for penetration testing
 - python3 subming.py -d (domain)
 - EXP: python3 subming.py -d google.com
 
-[![Alt text].(https://www.youtube.com/watch?v=3_m80qxikH8)]
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
 
